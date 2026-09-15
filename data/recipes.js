@@ -1,0 +1,531 @@
+window.RECIPES_DATA = {
+  "recipes": {
+    "manhattan": {
+      "name": "Manhattan at Neat",
+      "type": "A timeless classic",
+      "image": "assets/img/bar/001-manhattan.png",
+      "status": "original-spec-partial",
+      "deck": "Bourbon, sweet vermouth and bitters. Nothing revolutionary, and that is precisely the point. In a whiskey bar with hundreds of bottles, sometimes the best choice is simply doing the classic properly.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "Working at a whiskey bar with more than 350 spirits behind you creates an unusual problem: sometimes the impressive thing is knowing when not to get clever.",
+            "A guest at Neat wanted a Manhattan made with a good bourbon. That was the assignment. No smoke-filled glass. No house tincture. No ingredient requiring an explanation before the first sip. Just one of the great American cocktails, made carefully.",
+            "There is a temptation behind a serious bar to demonstrate everything you know. The Manhattan punishes that instinct. Bourbon, sweet vermouth and bitters leave very few places to hide. If the whiskey is wrong, the drink feels thin. If the vermouth dominates, it becomes cloying. If the dilution is off, the whole thing either bites or collapses.",
+            "That simplicity is part of why I still like this photograph."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "A bourbon Manhattan should begin with warmth and grain from the whiskey, followed by the darker fruit and herbal sweetness of the vermouth. Bitters pull the two together and give the finish enough spice to keep the sweetness from hanging around too long.",
+            "The result is rich without being heavy and spirit-forward without needing to prove anything."
+          ]
+        },
+        {
+          "title": "Why It Worked",
+          "body": [
+            "At Neat, whiskey was the point. The enormous back bar meant we could choose a bourbon because it suited the guest rather than because it happened to be in the well.",
+            "That changed the way I thought about classics. A recipe may stay the same while the personality of the drink changes dramatically depending on the bottle inside it.",
+            "Original bourbon used: still to be confirmed from my records."
+          ]
+        }
+      ],
+      "ingredients": [
+        "Bourbon",
+        "Sweet vermouth",
+        "Aromatic bitters",
+        "Cherry garnish"
+      ],
+      "method": "The exact original specification is still being recovered."
+    },
+    "in-a-pickle": {
+      "name": "In a Pickle",
+      "type": "Original · Menu drink",
+      "image": "assets/img/bar/002-in-a-pickle.png",
+      "status": "verified-original",
+      "deck": "Pearl cucumber vodka, lime, fresh dill, sugar and salt water. Savory, bright and built to make the memory of a pickle behave like a cocktail rather than a novelty.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "Most original cocktails never make it very far.",
+            "They live on a whiteboard. They survive two test pours. Somebody tastes one, makes a face, and the idea quietly disappears.",
+            "In a Pickle made it onto the menu.",
+            "That matters to me more than simply saying I invented a cocktail. A menu drink has to survive contact with reality. It needs to taste good more than once. Other bartenders have to be able to make it. Guests have to understand enough of the idea to order it. And after all of that, somebody needs to want a second one.",
+            "The original Barman’s Covenant post from July 23, 2016 finally gives us the exact build: Pearl cucumber vodka, lime, dill, a sugar cube and a few dashes of salt water."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "This was not supposed to taste like drinking pickle brine out of the refrigerator.",
+            "Pearl Cucumber Vodka supplied the cool, green cucumber note. Fresh lime gave the drink its sharp edge. Dill provided the aroma that makes the brain immediately think pickle, while the sugar cube rounded the acidity and the salt water sharpened the other flavors without turning the glass saline.",
+            "The result was savory without becoming heavy, and familiar without simply copying the thing that inspired it."
+          ]
+        },
+        {
+          "title": "Why It Worked",
+          "body": [
+            "Savory cocktails can become novelty drinks if the unusual ingredient becomes the entire point.",
+            "Here, cucumber, dill, lime and salt all point in the same direction, but none of them has to shout. The sugar cube gives the drink enough balance to remain a cocktail instead of a culinary experiment.",
+            "The presentation changed later. The recipe is the throughline."
+          ]
+        }
+      ],
+      "ingredients": [
+        "1 1/2 oz Pearl Cucumber Vodka",
+        "1 oz fresh lime juice",
+        "3–4 sprigs fresh dill",
+        "1 sugar cube",
+        "2–3 dashes salt water"
+      ],
+      "method": "Shake vigorously with ice and strain into a coupe glass.",
+      "archiveDate": "July 23, 2016",
+      "archiveTitle": "The original In a Pickle build",
+      "archiveImage": "assets/img/bar/002-in-a-pickle-archive-alt.jpg",
+      "archiveNote": "The Barman’s Covenant post preserves the original specification. The archived photograph shows an earlier coupe presentation; I later changed the glass and presentation without changing what the drink was."
+    },
+    "peach-basil": {
+      "name": "Breakdown",
+      "type": "Hemingway Daiquiri variant · 2017 archive",
+      "image": "assets/img/bar/005-peach-basil.png",
+      "status": "archive-confirmed-partial",
+      "deck": "A Hemingway Daiquiri variant that pushed the familiar rum-and-citrus idea toward bitter, savory territory with Bacardi, Cappelletti and roasted red peppers.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "For a while this photograph had been filed in my head as simply another daiquiri. The archive tells a better story.",
+            "The Barman’s Covenant post from February 21, 2017 names the drink Breakdown and identifies it as a Hemingway Daiquiri variant. The post also preserves four important pieces of the build: Bacardi, Cappelletti, roasted red peppers and simple syrup.",
+            "That combination says a lot about where my cocktail development was heading at the time. I was still using a recognizable classic as the frame, but I was increasingly interested in pulling flavors from outside the usual cocktail pantry and asking whether they could belong in the glass."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "Bacardi supplies the rum foundation. Cappelletti moves the drink toward bitter orange, herbs and aperitivo character. Roasted red pepper adds a different kind of sweetness: vegetal, softened by heat and slightly savory rather than fruity. Simple syrup gives those sharper flavors enough room to meet instead of collide.",
+            "The Hemingway Daiquiri reference tells us the drink was built around a bright, rum-driven sour idea, but the surviving caption does not preserve the complete citrus or liqueur specification. That part of the recipe stays open until the original notes turn up."
+          ]
+        },
+        {
+          "title": "Why the Pepper",
+          "body": [
+            "Putting roasted red pepper in a cocktail can become a gimmick very quickly if the only goal is surprise.",
+            "Roasting changes the ingredient. The raw green edge softens, the natural sweetness becomes easier to notice, and the flavor starts making sense beside bitter aperitivo notes. Cappelletti becomes the bridge between the pepper and the rum instead of simply another bottle in the recipe.",
+            "Breakdown is a good snapshot of the period when I was becoming more willing to treat the kitchen and the bar as the same flavor laboratory."
+          ]
+        }
+      ],
+      "ingredients": [
+        "Bacardi rum — exact expression still to be confirmed",
+        "Cappelletti",
+        "Roasted red pepper component",
+        "Simple syrup",
+        "Remaining Hemingway Daiquiri citrus / liqueur components — original specification still to be recovered"
+      ],
+      "method": "The February 21, 2017 archive post confirms the concept and key ingredients, but not the full measurements or complete Hemingway Daiquiri variation. Those remain intentionally unguessed.",
+      "archiveDate": "February 21, 2017",
+      "archiveTitle": "Breakdown — original Barman’s Covenant post",
+      "archiveNote": "The February 21, 2017 post identifies the drink as Breakdown, a Hemingway Daiquiri variant. The photograph previously labeled Peach, Basil & Bourbon is this drink in its finished presentation.",
+      "archiveImage": "assets/img/bar/012-breakdown-archive.jpg"
+    },
+    "metropolitan": {
+      "name": "The Metropolitan",
+      "type": "Original",
+      "image": "assets/img/bar/006-metropolitan.png",
+      "status": "archive-link",
+      "deck": "Polished, composed and deliberately built. The Metropolitan represents the point where creating a drink became less about adding ingredients and more about deciding what each ingredient was supposed to accomplish.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "At some point cocktail development stopped being a matter of throwing interesting ingredients together and hoping they liked each other.",
+            "The Metropolitan comes from that later period.",
+            "By then I was thinking in terms of structure. What provides the base? Where does the sweetness come from? What creates acidity? What gives the drink aroma? What does the first sip do that makes somebody want the second?",
+            "That sounds clinical when written down.",
+            "Behind the bar it becomes instinct.",
+            "The Metropolitan was part of the transition from making drinks to building them."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "The drink was designed to feel polished.",
+            "Not loud. Not gimmicky. Not aggressively experimental.",
+            "Balanced drinks often appear deceptively simple because the work happens before they reach the guest. The ingredients should support one another instead of competing for attention.",
+            "That was the intention here."
+          ]
+        },
+        {
+          "title": "Why It Mattered",
+          "body": [
+            "There are drinks I remember because they were unusual.",
+            "There are others I remember because they marked a change in how I thought.",
+            "The Metropolitan belongs in the second group.",
+            "It represents the point where cocktail development became less about asking what ingredients I could combine and more about asking what each ingredient was doing there."
+          ]
+        }
+      ],
+      "ingredients": [
+        "Original Barman’s Covenant recipe"
+      ],
+      "method": "The original Metropolitan specification will be restored from my archived Barman’s Covenant material. I am intentionally not reconstructing the recipe from memory alone."
+    },
+    "last-word": {
+      "name": "The Last Word",
+      "type": "Classic",
+      "image": "assets/img/bar/007-last-word.png",
+      "status": "verified-classic",
+      "deck": "Equal parts, enormous personality. Herbal, citrusy, sweet and sharp, with an Irish gin giving this version its own accent without disturbing one of the great formulas in cocktail history.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "The Last Word is one of those cocktails that makes bartenders wonder why so many recipes need twelve ingredients.",
+            "Four equal parts.",
+            "That is essentially the whole trick.",
+            "The original classic combines gin, green Chartreuse, maraschino liqueur and lime. My version used an Irish gin, giving an established formula a slightly different voice without trying to rewrite it.",
+            "That is the proper relationship to a classic.",
+            "You do not have to improve it.",
+            "Sometimes you just have to understand it well enough not to damage it."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "The Last Word arrives from several directions simultaneously.",
+            "Gin provides botanical structure. Green Chartreuse is intensely herbal. Maraschino brings sweetness along with its distinctive cherry-pit character. Lime provides enough acidity to keep all of that richness under control.",
+            "No ingredient is really background.",
+            "They argue until they reach equilibrium."
+          ]
+        },
+        {
+          "title": "Why the Irish Gin",
+          "body": [
+            "Changing the gin changes more than people expect because gin occupies a full quarter of this cocktail.",
+            "A softer or differently botanical gin can move the entire drink without changing a single measurement.",
+            "The particular Irish gin I used still needs to be confirmed from my records, so I am not going to assign a bottle to the photograph simply because one would fit the story."
+          ]
+        }
+      ],
+      "ingredients": [
+        "3/4 oz gin",
+        "3/4 oz green Chartreuse",
+        "3/4 oz maraschino liqueur",
+        "3/4 oz fresh lime juice"
+      ],
+      "method": "Shake with ice and fine strain into a chilled coupe."
+    },
+    "whippersnapper": {
+      "name": "Old Flame",
+      "type": "Whippersnapper Old Fashioned · Archive confirmed",
+      "image": "assets/img/bar/010-whippersnapper.png",
+      "status": "archive-confirmed-partial",
+      "deck": "A Whippersnapper Old Fashioned built with Oregon Spirit Whiskey, Angostura bitters and cinnamon tincture. The original post called it Old Flame.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "An Old Fashioned is one of the best ways to find out whether you actually like a whiskey.",
+            "There is nowhere for it to disappear.",
+            "The archived Barman’s Covenant post gives this one its proper name: Old Flame. The post, dated August 4, 2016, identifies Whippersnapper Oregon Spirit Whiskey, Angostura bitters and cinnamon tincture.",
+            "That is a much more specific story than simply calling it a Whippersnapper Old Fashioned. The cinnamon was not garnish or decoration. It was part of the flavor architecture."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "Whippersnapper brings a grain-forward, slightly rustic whiskey character. Angostura supplies baking spice, bitterness and depth. The cinnamon tincture pushes the warm spice higher without requiring the drink to become sweeter.",
+            "The orange peel and cherry visible in the archive photograph make the presentation immediately recognizable as an Old Fashioned, but the whiskey remains the point of the glass."
+          ]
+        },
+        {
+          "title": "Why an Old Fashioned",
+          "body": [
+            "When the base spirit is interesting, complexity can become camouflage.",
+            "An Old Fashioned forces restraint. The supporting ingredients can change the shape of the whiskey, but they cannot replace it.",
+            "Old Flame used that restraint to let a distinctly Oregon whiskey carry the drink while cinnamon and Angostura changed the edges."
+          ]
+        }
+      ],
+      "ingredients": [
+        "Whippersnapper Oregon Spirit Whiskey",
+        "Angostura bitters",
+        "Cinnamon tincture",
+        "Sweetening component — original specification still to be recovered",
+        "Orange peel and cherry garnish, visible in the archive photograph"
+      ],
+      "method": "Built in the Old Fashioned tradition. The surviving August 2016 post confirms the whiskey, Angostura bitters and cinnamon tincture, but not the original ratios or sweetening component.",
+      "archiveDate": "August 4, 2016",
+      "archiveTitle": "Old Flame, preserved in the Barman’s Covenant archive",
+      "archiveImage": "assets/img/bar/010-old-flame-archive.jpg",
+      "archiveNote": "The original post identifies the drink as Old Flame and tags it as an Old Fashioned built around Whippersnapper whiskey, Angostura bitters and cinnamon tincture."
+    },
+    "negroni": {
+      "name": "The Negroni",
+      "type": "A personal favorite",
+      "image": "assets/img/bar/015-negroni.png",
+      "status": "verified-classic",
+      "deck": "Bitter, sweet and unapologetically spirit-forward. Three ingredients demonstrate one of the central lessons of bartending: complexity does not require complication.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "I loved Negronis.",
+            "There are more complicated cocktails. There are drinks with more theatrical presentations and others requiring entire afternoons of prep.",
+            "The Negroni needs three bottles.",
+            "Gin.",
+            "Sweet vermouth.",
+            "Campari.",
+            "Equal parts.",
+            "And somehow those three ingredients create something that can be bitter, sweet, herbal, citrusy and spirit-forward at exactly the same time.",
+            "It is one of the cocktails that taught me that complexity and complication are not the same thing."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "Campari introduces bitterness immediately, along with citrus and herbal notes.",
+            "Sweet vermouth supplies wine, spice and dark fruit.",
+            "Gin brings botanical structure and enough dryness to prevent the other two ingredients from becoming syrupy.",
+            "Then an orange peel changes the first impression completely.",
+            "The drink smells brighter than it tastes, which makes the bitterness feel more inviting."
+          ]
+        },
+        {
+          "title": "Why I Loved It",
+          "body": [
+            "A Negroni does not apologize for itself.",
+            "People who dislike bitter drinks generally know immediately.",
+            "People who love them frequently become slightly obsessive.",
+            "I respected that.",
+            "The drink has a point of view."
+          ]
+        }
+      ],
+      "ingredients": [
+        "1 oz gin",
+        "1 oz Campari",
+        "1 oz sweet vermouth",
+        "Orange peel"
+      ],
+      "method": "Stir with ice, strain over fresh ice or serve up depending on preference, and finish with orange peel. The specific gin and vermouth used in the pictured drink still need to be confirmed."
+    },
+    "major-moses": {
+      "name": "Major Moses",
+      "type": "Original · A little weird",
+      "image": "assets/img/bar/019-major-moses.png",
+      "status": "original-spec-partial",
+      "deck": "Bourbon, egg white and an entire smashed peach. It sounds excessive because it was. Sometimes the interesting drink begins with asking why not instead of why.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "Sometimes being serious about cocktails means doing something slightly ridiculous.",
+            "Major Moses started with bourbon and a whole smashed peach.",
+            "Not peach syrup.",
+            "Not a carefully measured peach cordial.",
+            "A peach.",
+            "Add egg white and suddenly what sounds like somebody attacking the produce drawer starts becoming a cocktail.",
+            "I named it after Major Moses from the United States military, which does not make the drink any less peculiar.",
+            "That was part of its charm."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "Fresh peach gives a drink something peach flavoring never quite reproduces.",
+            "There is sweetness, obviously, but there is also acidity, flesh, aroma and texture.",
+            "Bourbon provides enough weight to stand against the fruit.",
+            "Egg white turns the entire combination into something softer and more cohesive, giving the drink a creamy texture without actually making it creamy."
+          ]
+        },
+        {
+          "title": "Why It Worked",
+          "body": [
+            "There was always a tension in my cocktail work between precision and curiosity.",
+            "Major Moses sits directly in the middle of it.",
+            "The initial idea was playful.",
+            "The execution still had to work.",
+            "A strange concept only becomes a good drink when somebody wants another sip."
+          ]
+        }
+      ],
+      "ingredients": [
+        "Bourbon",
+        "One smashed fresh peach",
+        "Egg white",
+        "Acid / citrus component",
+        "Sweetener as required by the original specification"
+      ],
+      "method": "Exact measurements are being recovered."
+    },
+    "ruby-queen": {
+      "name": "Ruby Queen",
+      "type": "Original",
+      "image": "assets/img/bar/020-ruby-queen.png",
+      "status": "original-spec-partial",
+      "deck": "Blanco tequila, mezcal, Ancho Reyes Verde, lime and a house-made beet shrub. Earthy, smoky, vegetal, tart and vivid enough that the color only tells half the story.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "Ruby Queen looks like it should be sweet.",
+            "That assumption lasts about one sip.",
+            "The drink combined blanco tequila, mezcal, Ancho Reyes Verde, fresh lime and a house-made beet shrub.",
+            "That creates a fairly crowded flavor conversation: agave, smoke, green chile, acidity, earthiness and the unmistakable character of beet.",
+            "The color gets attention first.",
+            "The flavor is why I remember it."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "Blanco tequila gives the drink clean agave character.",
+            "Mezcal introduces smoke, but it should function as seasoning rather than turning the entire glass into a campfire.",
+            "Ancho Reyes Verde contributes fresh chile character, vegetation and mild heat.",
+            "Lime gives immediate acidity.",
+            "Then the beet shrub changes everything.",
+            "Beet contributes earth and sweetness while the shrub’s vinegar brings another kind of acidity entirely."
+          ]
+        },
+        {
+          "title": "Why Those Ingredients",
+          "body": [
+            "Beet can be difficult in a cocktail because its flavor is powerful and instantly recognizable.",
+            "Trying to hide it usually makes the drink worse.",
+            "The solution was to surround it with ingredients capable of standing up to it.",
+            "Agave spirits work.",
+            "Chile works.",
+            "Smoke works.",
+            "Acid definitely works.",
+            "Ruby Queen was built around embracing the ingredient rather than apologizing for it."
+          ]
+        }
+      ],
+      "ingredients": [
+        "Blanco tequila",
+        "Mezcal",
+        "Ancho Reyes Verde",
+        "Fresh lime juice",
+        "House beet shrub"
+      ],
+      "method": "Exact brands of tequila and mezcal and the original proportions still need to be recovered."
+    },
+    "rum-cola": {
+      "name": "Rebuilding Rum & Cola",
+      "type": "Deconstruction",
+      "image": "assets/img/bar/013-rum-coke-rebuild.png",
+      "status": "original-spec-partial",
+      "deck": "Instead of pouring rum into cola, I pulled the idea apart. Dark rum, lime, egg white and a house syrup built from kola nut and herbs reconstructed the familiar flavor from the ground up.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "Rum and Coke might be one of the easiest mixed drinks in existence.",
+            "So naturally I decided to make it difficult.",
+            "The idea was not to improve a highball by adding more garnish.",
+            "It was to ask what makes cola taste like cola in the first place and then rebuild that flavor around a good dark rum.",
+            "I made a house syrup using kola nut and other herbs, added lime, dark rum and egg white, and turned one of the most casual drinks imaginable into something requiring actual prep.",
+            "Bartenders occasionally do this to themselves."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "Dark rum brings molasses, spice and aged character.",
+            "The house kola syrup provides the familiar bitter-sweet-spiced direction associated with cola without simply opening a bottle.",
+            "Lime supplies the bright acidity already familiar from a Rum and Coke with lime.",
+            "Egg white changes the expected experience completely, producing a soft, structured texture.",
+            "The flavors are recognizable.",
+            "The format is not."
+          ]
+        },
+        {
+          "title": "Why Rebuild It",
+          "body": [
+            "Cocktail development is often about asking very basic questions.",
+            "What actually defines this drink?",
+            "Which parts are essential?",
+            "Which parts are merely conventional?",
+            "Rum and cola provided a perfect target because nearly everyone already knows what the reference point tastes like.",
+            "That means any deviation becomes immediately obvious."
+          ]
+        }
+      ],
+      "ingredients": [
+        "Aged or dark rum",
+        "House kola-nut syrup with herbs and spices",
+        "Fresh lime",
+        "Egg white"
+      ],
+      "method": "The exact rum and complete syrup formula still need to be recovered from my notes."
+    },
+    "birds-of-paradise": {
+      "name": "Birds of Paradise",
+      "type": "World Class · 2019",
+      "image": "assets/img/bar/birds-of-paradise-final.webp",
+      "status": "original-spec-partial",
+      "deck": "Johnnie Walker Gold, house clove infusion and years of accumulated technique. This was where experimentation finally became a competition drink, and where I felt like all that studying had arrived somewhere.",
+      "sections": [
+        {
+          "title": "The Story",
+          "body": [
+            "There are cocktails you make during a shift.",
+            "There are cocktails you develop for a menu.",
+            "And then there are drinks that begin to represent an entire period of your life.",
+            "Birds of Paradise became that drink for me.",
+            "I developed it while preparing for Diageo World Class in 2019, during a period when cocktail making had become almost academic. I was studying fermentation, preservation, sustainability, carbonation, sensory science, Brix measurement and every other technical rabbit hole I could find.",
+            "The surviving development photographs show the process before the polished competition presentation existed.",
+            "Ingredients move around.",
+            "Ideas change.",
+            "The drink becomes itself slowly.",
+            "At the center was Johnnie Walker Gold Label and a house clove infusion.",
+            "Then eventually there was a finished glass.",
+            "And for perhaps the first time in my bartending career, I looked at something I had created and thought:",
+            "I finally arrived."
+          ]
+        },
+        {
+          "title": "In the Glass",
+          "body": [
+            "Johnnie Walker Gold Label brings honeyed malt character, soft smoke, fruit and richness.",
+            "Clove is far more aggressive.",
+            "Used carelessly, it can dominate almost anything. The infusion therefore had to behave as an accent, bringing warmth and spice without making the drink taste medicinal.",
+            "The broader goal was tropical character without making something childish.",
+            "Fruit could provide brightness and familiarity, but the whisky needed to remain present.",
+            "That balance mattered."
+          ]
+        },
+        {
+          "title": "Why Johnnie Walker Gold",
+          "body": [
+            "Competition cocktails often tempt bartenders into burying the sponsor spirit under technique.",
+            "I did not want that.",
+            "If whisky was supposed to be the base, the final drink needed to make sense because of the whisky rather than in spite of it.",
+            "Gold Label gave me enough richness and softness to move toward tropical flavors while retaining the depth expected from Scotch."
+          ]
+        },
+        {
+          "title": "What It Meant",
+          "body": [
+            "Birds of Paradise ultimately became my World Class entry during the year I was named among the Diageo World Class Top 100.",
+            "The ranking mattered.",
+            "But the drink matters to me for another reason.",
+            "It represented years of learning finally converging: service, spirits knowledge, experimentation, presentation, hospitality and enough confidence to put something personal in front of other professionals."
+          ]
+        }
+      ],
+      "ingredients": [
+        "Johnnie Walker Gold Label",
+        "House clove infusion",
+        "Tropical components from the original competition specification",
+        "Balancing acid and sweetness",
+        "Original garnish and presentation"
+      ],
+      "method": "The complete competition specification will be reproduced once verified against my surviving World Class material."
+    }
+  }
+};
