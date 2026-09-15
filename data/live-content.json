@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T17:30:00-07:00",
+  "updatedAt": "2026-09-15T15:16:48.657Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -7,7 +7,7 @@
       "latest": {
         "videoId": "rcuviXfyBH0",
         "title": "I Went to Haida Gwaii to Fish. The Trip Had Other Plans.",
-        "publishedAt": "2026-09-04T01:00:03Z",
+        "publishedAt": "2026-09-04T01:00:03+00:00",
         "url": "https://www.youtube.com/watch?v=rcuviXfyBH0",
         "thumbnail": "https://i.ytimg.com/vi/rcuviXfyBH0/maxresdefault.jpg"
       }
@@ -17,21 +17,23 @@
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
         "videoId": "TkaLQCbQPTg",
-        "title": "The Highlander Canon Is Broken (And Here's Why)",
-        "publishedAt": "2026-09-11T01:00:26Z",
+        "title": "Is It Even Canon? The Highlander Debate You Need To See",
+        "publishedAt": "2026-09-11T01:00:26+00:00",
         "url": "https://www.youtube.com/watch?v=TkaLQCbQPTg",
         "thumbnail": "https://i.ytimg.com/vi/TkaLQCbQPTg/maxresdefault.jpg"
       }
     }
   },
   "blog": {
-    "url": "https://mypioneeringlife.com",
+    "url": "https://mypioneeringlife1.wordpress.com/",
     "title": "My Pioneering Life",
-    "image": "assets/img/brand/mpl-current-logo.webp"
+    "image": "https://mypioneeringlife1.wordpress.com/wp-content/uploads/2025/11/cropped-transparent.png?w=200",
+    "latestTitle": "My Pioneering Life"
   },
   "substack": {
     "url": "https://substack.com/@mypioneeringlife",
-    "title": "My Pioneering Life on Substack",
-    "image": "assets/img/brand/mpl-current-logo.webp"
+    "title": "Just a moment...",
+    "image": "",
+    "latestTitle": "Just a moment..."
   }
 }
