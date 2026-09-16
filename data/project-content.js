@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-09-16T05:59:27.181Z",
+  "updatedAt": "2026-09-16T11:29:53.110Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
