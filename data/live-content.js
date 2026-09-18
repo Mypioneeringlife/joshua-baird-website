@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-09-18T04:47:59.396Z",
+  "updatedAt": "2026-09-18T09:44:21.172Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -16,11 +16,11 @@ window.LIVE_CONTENT = {
       "channelId": "UCCpOshmq6EogShwWHEjqXoA",
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
-        "videoId": "TkaLQCbQPTg",
-        "title": "Is It Even Canon? The Highlander Debate You Need To See",
-        "publishedAt": "2026-09-11T01:00:26+00:00",
-        "url": "https://www.youtube.com/watch?v=TkaLQCbQPTg",
-        "thumbnail": "https://i.ytimg.com/vi/TkaLQCbQPTg/maxresdefault.jpg"
+        "videoId": "JgumshJ1q_Y",
+        "title": "Highlander II Finally Shows What Connor Did After The Gathering",
+        "publishedAt": "2026-09-18T01:00:12+00:00",
+        "url": "https://www.youtube.com/watch?v=JgumshJ1q_Y",
+        "thumbnail": "https://i.ytimg.com/vi/JgumshJ1q_Y/maxresdefault.jpg"
       }
     }
   },
