@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-09-24T19:08:33.649Z",
+  "updatedAt": "2026-09-24T22:22:42.225Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -101,6 +101,14 @@ window.PROJECT_CONTENT = {
       ],
       "videos": [
         {
+          "videoId": "EzqhnVWxMzI",
+          "title": "Why 'There Can Only Be One' Is A Total Lie!",
+          "publishedAt": "2026-09-24T22:00:28+00:00",
+          "thumbnail": "https://i2.ytimg.com/vi/EzqhnVWxMzI/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EzqhnVWxMzI",
+          "description": "Highlander has a math problem.\n\nThe Game only works if the number of Immortals keeps going down, but the franchise keeps introducing new ones. Richie Ryan is one of the clearest examples, and Highlander II makes the problem even stranger once Zeist starts dropping Immortals into different points in Earth’s history.\n\nSo how does the Gathering ever reach a true final group?\n\nThis episode looks at what the franchise actually establishes, then pushes into my deliberately non-canon crackpot theory about why there may never be a permanent last Immortal.\n\nSources / footage referenced:\nHighlander (1986)\nHighlander II: The Quickening (1991), theatrical / Planet Zeist version\nHighlander II Renegade Version\nHighlander: The Series S1E1 “The Gathering”\nHighlander: The Series S2E4 “The Darkness”\nHighlander: The Series S2E5 “An Eye for an Eye”\n\nHighlander, its characters, footage, music, trademarks, and related intellectual property belong to their respective rights holders. The Corrupted Chronicle does not own the Highlander franchise and is not affiliated with or endorsed by its owners. Any copyrighted material used in this video is included for commentary, criticism, analysis, research, and discussion.\n\n#Highlander #RichieRyan #TheCorruptedChronicle"
+        },
+        {
           "videoId": "JgumshJ1q_Y",
           "title": "Highlander II Finally Shows What Connor Did After The Gathering",
           "publishedAt": "2026-09-18T01:00:12+00:00",
@@ -139,14 +147,6 @@ window.PROJECT_CONTENT = {
           "thumbnail": "https://i2.ytimg.com/vi/yrYrQr5iacs/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=yrYrQr5iacs",
           "description": "Ramírez knew the rules of the Game. He knew there could be only one.\n\nSo why did he keep training other Immortals?\n\nIn this episode of **The Corrupted Chronicle**, we look at Ramírez as both teacher and student, and ask whether he was actually terrible at the Game, or whether winning was never the point.\n\n**Sources featured:** *Highlander* (1986) and *Highlander: The Series* S05E02 and S05E14. I make no claim on ownership of the imagery. This is purely intended as a creative endeavor to discuss my opinions on the franchise and its charactors.\n\nWhat do you think? Was Ramírez making his own competition stronger, or was he preserving something more important?\n\n#Highlander #Ramirez #ConnorMacLeod #TheCorruptedChronicle\n\nVDXHZ3KSNJJOWTKD\nXGD5RMGZLOGHXRM8\nVY6RF7AQE2AJ8RAM\nDNLJILK8F4QVCML2\nS58V9BVIKLUXX28T"
-        },
-        {
-          "videoId": "w-1QjKUWClo",
-          "title": "Methos Was Trying to Outlive Himself | Highlander Explained",
-          "publishedAt": "2026-08-14T01:00:30+00:00",
-          "thumbnail": "https://i4.ytimg.com/vi/w-1QjKUWClo/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=w-1QjKUWClo",
-          "description": "Methos survived for more than five thousand years, but survival may not have been the thing he was really fighting for.\n\nThis episode examines whether the oldest living Immortal was trying to do more than stay alive. From Adam Pierson to Alexa, Cassandra, Kronos and the Four Horsemen, Methos is repeatedly forced to confront the man he used to be and decide whether change is actually possible.\n\n**Highlander source material featured in this episode:**\n\n• **“Methos”** — *Highlander: The Series*, Season 3, Episode 16\n• **“Timeless”** — *Highlander: The Series*, Season 4, Episode 11\n• **“Something Wicked”** — *Highlander: The Series*, Season 4, Episode 13\n• **“Deliverance”** — *Highlander: The Series*, Season 4, Episode 14\n• **“Methuselah's Gift”** — *Highlander: The Series*, Season 4, Episode 16\n• **“Comes a Horseman”** — *Highlander: The Series*, Season 5, Episode 11\n• **“Revelation 6:8”** — *Highlander: The Series*, Season 5, Episode 12\n• ***Highlander: The Source***\n\n#Highlander #Methos #HighlanderTheSeries\n\nISRFNNOIJ7GF1XNW PZMEEVOQET0JN8GD"
         }
       ]
     },
