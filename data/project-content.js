@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-10-02T02:14:20.089Z",
+  "updatedAt": "2026-10-02T08:32:40.850Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -101,6 +101,14 @@ window.PROJECT_CONTENT = {
       ],
       "videos": [
         {
+          "videoId": "W4rIeMJEfOg",
+          "title": "What EXACTLY Gets Transferred in a Quickening?",
+          "publishedAt": "2026-10-02T01:00:28+00:00",
+          "thumbnail": "https://i4.ytimg.com/vi/W4rIeMJEfOg/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=W4rIeMJEfOg",
+          "description": "What actually passes from one Immortal to another during a Quickening?\n\nThis episode examines whether Highlander shows the transfer of more than raw power, including memories, knowledge, personality, skills, and unusual abilities. From Kane gaining Nakano’s illusions to the Dark Quickening and the Animated Series’ explicit knowledge transfers, the evidence is stranger than the usual explanation suggests.\n\nSources / footage referenced:\n• Highlander III: The Final Dimension (1994)\n• Highlander: The Series S1E5, “Free Fall”\n• Highlander: The Series S3E9, “Shadows”\n• Highlander: The Series S4E13, “Something Wicked”\n• Highlander: The Series S4E14, “Deliverance”\n• Highlander: The Series S5E1, “Prophecy”\n• Highlander: The Animated Series S1E13, “The Setup”\n\nRights notice: Highlander, its characters, footage, music, trademarks, and related intellectual property belong to their respective copyright and trademark owners. The Corrupted Chronicle does not own the Highlander franchise and is not affiliated with or endorsed by its rights holders. Any excerpts appearing in this fan-made video are used in limited form for commentary, criticism, analysis, research, and discussion.\n\n#Highlander #Quickening #TheCorruptedChronicle"
+        },
+        {
           "videoId": "EzqhnVWxMzI",
           "title": "The Highlander Paradox: Can There Really Be Only One?",
           "publishedAt": "2026-09-24T22:00:28+00:00",
@@ -139,14 +147,6 @@ window.PROJECT_CONTENT = {
           "thumbnail": "https://i4.ytimg.com/vi/WOoZGTdRmbQ/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=WOoZGTdRmbQ",
           "description": "Kiem Sun wanted an army. Gavriel Larca turned newly awakened Immortals into his own “angels.” Jacob Kell surrounded himself with an Immortal posse.\n\nThen Highlander: The Animated Series took the idea somewhere much stranger: Fredrickson accidentally cloned an Immortal.\n\nClips and images are presented for commentary, criticism, analysis, and discussion.\n\n#Highlander #HighlanderTheSeries #TheCorruptedChronicle\nThis episode follows the escalating ways Highlander characters tried to manipulate the Game and asks what Fredrickson’s experiment actually proved. Because when his duplicate dies, something electrical leaves the body, and the series never gives us a completely clean explanation of what we just watched.\n\nSources featured:\nHighlander: The Series — “The Road Not Taken”\nHighlander: The Series — “For Tomorrow We Die”\nHighlander: The Series — “Little Tin God”\nHighlander: Endgame\nHighlander: The Animated Series — “The Double”"
-        },
-        {
-          "videoId": "yrYrQr5iacs",
-          "title": "Was Ramírez Even Trying to Win the Game? | Highlander",
-          "publishedAt": "2026-08-21T01:00:05+00:00",
-          "thumbnail": "https://i2.ytimg.com/vi/yrYrQr5iacs/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=yrYrQr5iacs",
-          "description": "Ramírez knew the rules of the Game. He knew there could be only one.\n\nSo why did he keep training other Immortals?\n\nIn this episode of **The Corrupted Chronicle**, we look at Ramírez as both teacher and student, and ask whether he was actually terrible at the Game, or whether winning was never the point.\n\n**Sources featured:** *Highlander* (1986) and *Highlander: The Series* S05E02 and S05E14. I make no claim on ownership of the imagery. This is purely intended as a creative endeavor to discuss my opinions on the franchise and its charactors.\n\nWhat do you think? Was Ramírez making his own competition stronger, or was he preserving something more important?\n\n#Highlander #Ramirez #ConnorMacLeod #TheCorruptedChronicle\n\nVDXHZ3KSNJJOWTKD\nXGD5RMGZLOGHXRM8\nVY6RF7AQE2AJ8RAM\nDNLJILK8F4QVCML2\nS58V9BVIKLUXX28T"
         }
       ]
     },

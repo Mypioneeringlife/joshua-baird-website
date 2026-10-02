@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-10-02T02:14:20.091Z",
+  "updatedAt": "2026-10-02T08:32:40.851Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -16,11 +16,11 @@ window.LIVE_CONTENT = {
       "channelId": "UCCpOshmq6EogShwWHEjqXoA",
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
-        "videoId": "EzqhnVWxMzI",
-        "title": "The Highlander Paradox: Can There Really Be Only One?",
-        "publishedAt": "2026-09-24T22:00:28+00:00",
-        "url": "https://www.youtube.com/watch?v=EzqhnVWxMzI",
-        "thumbnail": "https://i.ytimg.com/vi/EzqhnVWxMzI/maxresdefault.jpg"
+        "videoId": "W4rIeMJEfOg",
+        "title": "What EXACTLY Gets Transferred in a Quickening?",
+        "publishedAt": "2026-10-02T01:00:28+00:00",
+        "url": "https://www.youtube.com/watch?v=W4rIeMJEfOg",
+        "thumbnail": "https://i.ytimg.com/vi/W4rIeMJEfOg/maxresdefault.jpg"
       }
     }
   },
