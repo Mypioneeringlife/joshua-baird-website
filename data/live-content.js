@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-10-03T06:30:59.305Z",
+  "updatedAt": "2026-10-03T12:32:30.745Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
