@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-10-08T21:18:30.021Z",
+  "updatedAt": "2026-10-09T02:07:53.885Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -101,6 +101,14 @@ window.PROJECT_CONTENT = {
       ],
       "videos": [
         {
+          "videoId": "TTvRJwB-qQc",
+          "title": "Nobody Wrote the Rules of the Game",
+          "publishedAt": "2026-10-08T22:00:15+00:00",
+          "thumbnail": "https://i1.ytimg.com/vi/TTvRJwB-qQc/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=TTvRJwB-qQc",
+          "description": "Highlander’s Immortals all seem to know the rules of the Game.\n\nDon’t fight on Holy Ground. Fight one-on-one. Keep Immortals secret. Eventually, there can be only one.\n\nBut who actually made those rules?\n\nSources referenced\nHighlander (1986)\nRamírez teaching Connor about Immortality, the Gathering, the Prize and Holy Ground.\n\nHighlander: The Series — “The Gathering”\nSlan Quince objecting to Duncan and Connor facing him two-against-one, demonstrating that the one-on-one convention is explicitly recognized by Immortals.\n\nHighlander: The Series — “Little Tin God”\nJoe Dawson recounting the Watcher legend about Immortals fighting on Holy Ground at Pompeii, used when examining whether the Holy Ground prohibition may have supernatural consequences.\n\nHighlander III: The Final Dimension\nConnor and Kane at the Buddhist shrine, used as evidence when examining possible supernatural enforcement of the Holy Ground rule.\n\nHighlander: Endgame\nJacob Kell and his followers violating the traditional one-on-one code while continuing to take heads and receive Quickenings, testing whether the code is actually enforced by the supernatural mechanics of the Game.\n\nHighlander and its characters, footage, music, trademarks and related materials belong to their respective rights holders. The Corrupted Chronicle is an independent fan analysis/commentary project and is not affiliated with or endorsed by the Highlander rights holders.\n#Highlander #Immortals #TheGame"
+        },
+        {
           "videoId": "W4rIeMJEfOg",
           "title": "What EXACTLY Gets Transferred in a Quickening?",
           "publishedAt": "2026-10-02T01:00:28+00:00",
@@ -139,14 +147,6 @@ window.PROJECT_CONTENT = {
           "thumbnail": "https://i2.ytimg.com/vi/aQ3vO4HMEMc/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=aQ3vO4HMEMc",
           "description": "Some of Highlander’s villains were unquestionably wrong. But that doesn’t mean everything they believed was wrong.\n\nFrom James Horton and Ingrid Henning to Faith, we’re looking at the antagonists whose motives become much harder to dismiss once you actually think about them.\n\nSources include: The Hunters, Eye for an Eye, Under Color of Authority, Pharaoh’s Daughter, Promises, The Valkyrie, and Highlander: Endgame.\n\n#Highlander #HighlanderTheSeries #TheCorruptedChronicle"
-        },
-        {
-          "videoId": "WOoZGTdRmbQ",
-          "title": "How Immortals Learned to Rig Highlander’s Game",
-          "publishedAt": "2026-08-28T01:00:35+00:00",
-          "thumbnail": "https://i4.ytimg.com/vi/WOoZGTdRmbQ/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=WOoZGTdRmbQ",
-          "description": "Kiem Sun wanted an army. Gavriel Larca turned newly awakened Immortals into his own “angels.” Jacob Kell surrounded himself with an Immortal posse.\n\nThen Highlander: The Animated Series took the idea somewhere much stranger: Fredrickson accidentally cloned an Immortal.\n\nClips and images are presented for commentary, criticism, analysis, and discussion.\n\n#Highlander #HighlanderTheSeries #TheCorruptedChronicle\nThis episode follows the escalating ways Highlander characters tried to manipulate the Game and asks what Fredrickson’s experiment actually proved. Because when his duplicate dies, something electrical leaves the body, and the series never gives us a completely clean explanation of what we just watched.\n\nSources featured:\nHighlander: The Series — “The Road Not Taken”\nHighlander: The Series — “For Tomorrow We Die”\nHighlander: The Series — “Little Tin God”\nHighlander: Endgame\nHighlander: The Animated Series — “The Double”"
         }
       ]
     },

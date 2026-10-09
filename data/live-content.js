@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-10-08T21:18:30.022Z",
+  "updatedAt": "2026-10-09T02:07:53.886Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -16,11 +16,11 @@ window.LIVE_CONTENT = {
       "channelId": "UCCpOshmq6EogShwWHEjqXoA",
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
-        "videoId": "W4rIeMJEfOg",
-        "title": "What EXACTLY Gets Transferred in a Quickening?",
-        "publishedAt": "2026-10-02T01:00:28+00:00",
-        "url": "https://www.youtube.com/watch?v=W4rIeMJEfOg",
-        "thumbnail": "https://i.ytimg.com/vi/W4rIeMJEfOg/maxresdefault.jpg"
+        "videoId": "TTvRJwB-qQc",
+        "title": "Nobody Wrote the Rules of the Game",
+        "publishedAt": "2026-10-08T22:00:15+00:00",
+        "url": "https://www.youtube.com/watch?v=TTvRJwB-qQc",
+        "thumbnail": "https://i.ytimg.com/vi/TTvRJwB-qQc/maxresdefault.jpg"
       }
     }
   },
