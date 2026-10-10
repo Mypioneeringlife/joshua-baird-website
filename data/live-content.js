@@ -1,15 +1,15 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-10-10T13:39:07.371Z",
+  "updatedAt": "2026-10-10T18:33:45.290Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
       "channelUrl": "https://www.youtube.com/@mypioneeringlife",
       "latest": {
-        "videoId": "rcuviXfyBH0",
-        "title": "I Went to Haida Gwaii to Fish. The Trip Had Other Plans.",
-        "publishedAt": "2026-09-04T01:00:03+00:00",
-        "url": "https://www.youtube.com/watch?v=rcuviXfyBH0",
-        "thumbnail": "https://i.ytimg.com/vi/rcuviXfyBH0/maxresdefault.jpg"
+        "videoId": "hhiuNR1sVi4",
+        "title": "I Hung My Peppers in the Kitchen (Here's Why)",
+        "publishedAt": "2026-10-10T16:00:04+00:00",
+        "url": "https://www.youtube.com/watch?v=hhiuNR1sVi4",
+        "thumbnail": "https://i.ytimg.com/vi/hhiuNR1sVi4/maxresdefault.jpg"
       }
     },
     "corruptedchronicle": {
