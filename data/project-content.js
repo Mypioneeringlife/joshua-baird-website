@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-10-10T18:33:45.288Z",
+  "updatedAt": "2026-10-10T22:29:50.605Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -102,7 +102,7 @@ window.PROJECT_CONTENT = {
       "videos": [
         {
           "videoId": "TTvRJwB-qQc",
-          "title": "Nobody Wrote the Rules of the Game",
+          "title": "Who Actually Made Highlander’s Rules?",
           "publishedAt": "2026-10-08T22:00:15+00:00",
           "thumbnail": "https://i1.ytimg.com/vi/TTvRJwB-qQc/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=TTvRJwB-qQc",
