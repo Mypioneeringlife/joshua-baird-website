@@ -62,6 +62,7 @@
 .cw-story-copy h3{font-size:35px;line-height:1.06;margin-bottom:16px}
 .cw-story-copy p{font-size:15px;line-height:1.65;color:#5a5148;margin:0 0 26px}
 .cw-story-link{margin-top:auto;align-self:flex-start;font:800 12px/1.2 var(--sans);letter-spacing:.12em;text-transform:uppercase;border-bottom:2px solid #a84e33;padding-bottom:5px}
+.cw-empty-state[hidden]{display:none}
 .cw-empty-state{display:grid;grid-template-columns:1fr .82fr;min-height:450px;background:#eee5d7;border:1px solid rgba(55,44,33,.16);overflow:hidden}
 .cw-empty-left{position:relative;display:flex;flex-direction:column;align-items:flex-start;padding:64px 8%;justify-content:center}
 .cw-empty-number{position:absolute;right:8%;top:30px;font:800 110px/1 var(--serif);color:rgba(52,41,33,.06)}
