@@ -10,7 +10,9 @@ These rules apply to future assistants, agents, and Codex sessions working on th
 - Do not modify the automatic live-content updater when editing writing pages.
 
 ## Creative Writing
-- `creative-writing.html` is Joshua's original creative-writing landing page. Match the homepage's expressive, paper-and-ink/collage visual language, using existing genuine artwork.
+- `creative-writing.html` is Joshua's standalone **Victorian mansion private-library experience**, intentionally visually different from the homepage. Preserve the dark mahogany, leather volumes, brass/gold accents, reading room, antique seating, Tiffany-style lamp, and old-world typography. Do not revert it to the homepage's bright paper collage.
+- The library is an aesthetic setting, **not** a password-protected area. Do not imply access restrictions exist unless actually implemented.
+- Maintain attribution/licensing for externally sourced library photographs, or replace them with properly licensed locally hosted media. Keep the experience functional without images.
 - `assets/css/creative-writing.css` is scoped to this section so visual changes do not leak into the homepage.
 - `data/creative-writing.json` drives the story shelf; `assets/js/creative-writing.js` renders it.
 - Add only real stories that Joshua has approved for public display. Never fabricate titles, author credits, publication status, synopses, or links.
