@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-10-15T21:26:56.323Z",
+  "updatedAt": "2026-10-16T00:23:13.562Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -16,11 +16,11 @@ window.LIVE_CONTENT = {
       "channelId": "UCCpOshmq6EogShwWHEjqXoA",
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
-        "videoId": "TTvRJwB-qQc",
-        "title": "Who Actually Made Highlander’s Rules?",
-        "publishedAt": "2026-10-08T22:00:15+00:00",
-        "url": "https://www.youtube.com/watch?v=TTvRJwB-qQc",
-        "thumbnail": "https://i.ytimg.com/vi/TTvRJwB-qQc/maxresdefault.jpg"
+        "videoId": "33mP-fW6b64",
+        "title": "Highlander: Duncan Agreed With Kamir. Then He Killed Him",
+        "publishedAt": "2026-10-15T22:00:07+00:00",
+        "url": "https://www.youtube.com/watch?v=33mP-fW6b64",
+        "thumbnail": "https://i.ytimg.com/vi/33mP-fW6b64/maxresdefault.jpg"
       }
     }
   },
