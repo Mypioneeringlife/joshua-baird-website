@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T18:31:06.503Z",
+  "updatedAt": "2026-10-22T22:18:42.228Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -101,6 +101,14 @@
       ],
       "videos": [
         {
+          "videoId": "HM8BZ9369fY",
+          "title": "Highlander: Are You Immortal Before Your First Death?",
+          "publishedAt": "2026-10-22T22:00:14+00:00",
+          "thumbnail": "https://i1.ytimg.com/vi/HM8BZ9369fY/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=HM8BZ9369fY",
+          "description": "Are you already Immortal before your first death? From Duncan’s secret about Richie to Amanda’s decision to shoot Nick, Highlander leaves some difficult questions about the Buzz, the first death, and when immortality actually begins.\n\nSources: Highlander (1986); Highlander: Endgame (2000); Highlander: The Series, “Free Fall” (S1E5), “The Darkness” (S2E4), “Rite of Passage” (S3E5), and “Timeless” (S4E11); Highlander: The Raven, “Dead on Arrival” (S1E22)."
+        },
+        {
           "videoId": "33mP-fW6b64",
           "title": "Highlander: Duncan Agreed With Kamir. Then He Killed Him",
           "publishedAt": "2026-10-15T22:00:07+00:00",
@@ -139,14 +147,6 @@
           "thumbnail": "https://i3.ytimg.com/vi/JgumshJ1q_Y/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=JgumshJ1q_Y",
           "description": "Connor MacLeod won the Prize. But what did he actually do with it?\n\nHighlander II: The Renegade Version gives us an answer the original film never really had to confront. Connor tries to use what he won to save humanity, only to watch the system he helped create become something very different.\n\nThis episode looks at the Shield, the Prize, Connor's responsibility for what followed, and one surprisingly strong idea buried inside one of the franchise's most infamous movies.\n\nThe Chronicle was never neutral."
-        },
-        {
-          "videoId": "TkaLQCbQPTg",
-          "title": "Is It Even Canon? The Highlander Debate You Need To See",
-          "publishedAt": "2026-09-11T01:00:26+00:00",
-          "thumbnail": "https://i1.ytimg.com/vi/TkaLQCbQPTg/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=TkaLQCbQPTg",
-          "description": "Highlander fans love saying, “That’s not canon.” But there’s one problem: canon to what?\n\nAcross the original movie, Highlander II, its Renegade Version, Highlander III, the television/Endgame continuity, the animated series, and the new Henry Cavill reboot, we can identify seven different screen-continuity versions of Connor MacLeod.\n\nThat doesn’t mean canon is meaningless. It means you have to finish the sentence.\n\nNot canon to which Highlander?"
         }
       ]
     },
