@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-10-26T12:58:40.431Z",
+  "updatedAt": "2026-10-26T19:16:49.367Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -101,6 +101,14 @@ window.PROJECT_CONTENT = {
       ],
       "videos": [
         {
+          "videoId": "2csr2gLHaio",
+          "title": "Why Highlander Fights Could Fail Without Centuries of Experience #highlander #movie #shorts",
+          "publishedAt": "2026-10-26T16:00:27+00:00",
+          "thumbnail": "https://i3.ytimg.com/vi/2csr2gLHaio/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2csr2gLHaio",
+          "description": ""
+        },
+        {
           "videoId": "HM8BZ9369fY",
           "title": "Highlander: Duncan Knew About Richie All Along",
           "publishedAt": "2026-10-22T22:00:14+00:00",
@@ -139,14 +147,6 @@ window.PROJECT_CONTENT = {
           "thumbnail": "https://i2.ytimg.com/vi/EzqhnVWxMzI/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=EzqhnVWxMzI",
           "description": "Highlander has a math problem.\n\nThe Game only works if the number of Immortals keeps going down, but the franchise keeps introducing new ones. Richie Ryan is one of the clearest examples, and Highlander II makes the problem even stranger once Zeist starts dropping Immortals into different points in Earth’s history.\n\nSo how does the Gathering ever reach a true final group?\n\nThis episode looks at what the franchise actually establishes, then pushes into my deliberately non-canon crackpot theory about why there may never be a permanent last Immortal.\n\nSources / footage referenced:\nHighlander (1986)\nHighlander II: The Quickening (1991), theatrical / Planet Zeist version\nHighlander II Renegade Version\nHighlander: The Series S1E1 “The Gathering”\nHighlander: The Series S2E4 “The Darkness”\nHighlander: The Series S2E5 “An Eye for an Eye”\n\nHighlander, its characters, footage, music, trademarks, and related intellectual property belong to their respective rights holders. The Corrupted Chronicle does not own the Highlander franchise and is not affiliated with or endorsed by its owners. Any copyrighted material used in this video is included for commentary, criticism, analysis, research, and discussion.\n\n#Highlander #RichieRyan #TheCorruptedChronicle"
-        },
-        {
-          "videoId": "JgumshJ1q_Y",
-          "title": "Highlander II Finally Shows What Connor Did After The Gathering",
-          "publishedAt": "2026-09-18T01:00:12+00:00",
-          "thumbnail": "https://i3.ytimg.com/vi/JgumshJ1q_Y/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=JgumshJ1q_Y",
-          "description": "Connor MacLeod won the Prize. But what did he actually do with it?\n\nHighlander II: The Renegade Version gives us an answer the original film never really had to confront. Connor tries to use what he won to save humanity, only to watch the system he helped create become something very different.\n\nThis episode looks at the Shield, the Prize, Connor's responsibility for what followed, and one surprisingly strong idea buried inside one of the franchise's most infamous movies.\n\nThe Chronicle was never neutral."
         }
       ]
     },

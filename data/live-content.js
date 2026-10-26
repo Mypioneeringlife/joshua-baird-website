@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-10-26T12:58:40.432Z",
+  "updatedAt": "2026-10-26T19:16:49.368Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -16,11 +16,11 @@ window.LIVE_CONTENT = {
       "channelId": "UCCpOshmq6EogShwWHEjqXoA",
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
-        "videoId": "HM8BZ9369fY",
-        "title": "Highlander: Duncan Knew About Richie All Along",
-        "publishedAt": "2026-10-22T22:00:14+00:00",
-        "url": "https://www.youtube.com/watch?v=HM8BZ9369fY",
-        "thumbnail": "https://i.ytimg.com/vi/HM8BZ9369fY/maxresdefault.jpg"
+        "videoId": "2csr2gLHaio",
+        "title": "Why Highlander Fights Could Fail Without Centuries of Experience #highlander #movie #shorts",
+        "publishedAt": "2026-10-26T16:00:27+00:00",
+        "url": "https://www.youtube.com/watch?v=2csr2gLHaio",
+        "thumbnail": "https://i.ytimg.com/vi/2csr2gLHaio/maxresdefault.jpg"
       }
     }
   },
