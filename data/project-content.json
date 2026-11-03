@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T01:34:12.153Z",
+  "updatedAt": "2026-11-03T09:29:57.948Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -26,6 +26,14 @@
         "Learning by doing"
       ],
       "videos": [
+        {
+          "videoId": "V7CfacFVpmE",
+          "title": "A question for moms and dads",
+          "publishedAt": "2026-11-02T19:57:08+00:00",
+          "thumbnail": "https://i3.ytimg.com/vi/V7CfacFVpmE/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=V7CfacFVpmE",
+          "description": ""
+        },
         {
           "videoId": "hhiuNR1sVi4",
           "title": "I Hung My Peppers in the Kitchen (Here's Why)",
@@ -65,14 +73,6 @@
           "thumbnail": "https://i1.ytimg.com/vi/Hgr7RGZ5AIw/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=Hgr7RGZ5AIw",
           "description": "Welcome to My Pioneering Life! I’m Josh, and here I share modern pioneer skills—gardening, homesteading, and cooking from scratch—to give my family a little grace and pass these traditions forward.  \n\nSubscribe to follow along\nWatch my full playlist of recipes and preservation tips: https://www.youtube.com/watch?v=BYkivjOKGbQ&list=PLxGG1ARikuTYRMQRe1RVkVvmHLXEDhnfp\n\nOn this channel you’ll find:  \n• Food preservation (canning, fermenting, pickling, freezing)  \n• Gardening tips for small spaces and backyard abundance  \n• Honest, from-scratch cooking for family meals  \n• Pioneer skills adapted for modern life  \n\nStick around if you love self-sufficiency, old skills with a modern twist, and family-centered homesteading.  \n\nhomesteading skills | gardening zone 8B | food preservation | pioneer cooking | modern homestead | fermentation recipes | backyard garden tips | simple family meals"
-        },
-        {
-          "videoId": "d1ufdm7hZOc",
-          "title": "If It Doesn't Help Dinner, It's Out!",
-          "publishedAt": "2026-06-06T01:00:12+00:00",
-          "thumbnail": "https://i1.ytimg.com/vi/d1ufdm7hZOc/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=d1ufdm7hZOc",
-          "description": "Here’s a better description based on the actual script:\n\nSome of my garden is useful.\n\nSome of it might just be me lying to myself with seeds.\n\nIn this video, I’m walking through what I planted and asking a harder question: does this garden actually help the kitchen I have to run? Garlic, onions, beans, peppers, squash, herbs, grapes, asparagus, elderberry, and a few plants that are officially on probation all get judged by one old kitchen rule:\n\nPrep should follow purpose.\n\nIf a plant does not help dinner, groceries, preservation, flavor, or future meals, then I need to be honest about whether it belongs here.\n\nThis is the garden version of rebuilding my kitchen from the ground up. Not a fantasy garden. A useful one.\n\nWhat is one plant you grow because it actually helps your kitchen, and one plant you grow mostly because you like the idea of it?\n\nOld skills still belong in modern homes.\n\n#MyPioneeringLife #GardenPlanning #KitchenGarden #Homesteading #ModernHomestead #GrowYourOwnFood #OldKitchenRules #Gardening"
         }
       ]
     },
