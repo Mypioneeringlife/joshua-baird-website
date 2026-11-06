@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-11-06T06:45:54.593Z",
+  "updatedAt": "2026-11-06T15:00:01.293Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -101,6 +101,22 @@ window.PROJECT_CONTENT = {
       ],
       "videos": [
         {
+          "videoId": "rgNuan7D3Ok",
+          "title": "Why Would Highlander Immortals Agree to This?",
+          "publishedAt": "2026-11-06T02:00:08+00:00",
+          "thumbnail": "https://i3.ytimg.com/vi/rgNuan7D3Ok/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rgNuan7D3Ok",
+          "description": "In Highlander, immortals can spend centuries mastering the sword. But what happens when a newly awakened immortal has to face someone who's been fighting for 600 years?\n\nThe Game supposedly values honor, tradition, and skill. Yet those traditions give experienced immortals an enormous advantage.\n\nIs an honorable duel really honorable when one fighter never stood a chance?\n\nWatch the full investigation on The Corrupted Chronicle: Why Do Immortals Still Use Swords?\n\n#Highlander #DuncanMacLeod #TheGame #HighlanderTheSeries #Shorts"
+        },
+        {
+          "videoId": "rMCwK07WCQ8",
+          "title": "Highlander's Sword Fights Have an Unfair Secret",
+          "publishedAt": "2026-11-05T23:00:16+00:00",
+          "thumbnail": "https://i3.ytimg.com/vi/rMCwK07WCQ8/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rMCwK07WCQ8",
+          "description": "Why do immortals still fight with swords in Highlander?\n\nAfter centuries of warfare, technological advances, and experience, you'd think immortals would have found a more practical way to survive the Game.\n\nBut what if the sword was never really about practicality?\n\nIn this episode of The Corrupted Chronicle, we examine the traditions, training, and unwritten rules that shape immortal combat—and whether those rules actually make the Game fair.\n\nFrom Hideo Koto teaching Duncan MacLeod the way of the sword to Duncan preparing Richie Ryan for his own battles, Highlander repeatedly connects swordsmanship with mentorship, identity, and honor.\n\nBut the series also challenges that tradition.\n\nXavier St. Cloud exploits modern weapons. Mei Ling Shen demonstrates that a sword isn't necessary to defeat an opponent. And in Highlander: Endgame, Duncan's confrontation with Jin Ke raises a more difficult question:\n\n**Does honor come from the weapon, or from the immortal holding it?**\n\nAnd if experienced immortals can easily defeat newcomers, do they have a responsibility to teach them rather than take their heads?\n\n**What do you think?** Is the sword an essential part of the Game, or is Highlander's code of honor fundamentally unfair?\n\nSubscribe to The Corrupted Chronicle for more investigations into Highlander mythology, continuity, and the rules of the Game.\n\n**Highlander material discussed:**\n- Highlander: The Series — “Free Fall”\n- Highlander: The Series — “The Samurai”\n- Highlander: The Series — “Unholy Alliance”\n- Highlander: The Series — “An Eye for an Eye”\n- Highlander: The Series — “They Also Serve”\n- Highlander: Endgame (2000)\n\nHighlander and its associated characters, footage, and trademarks belong to their respective rights holders. This independent commentary examines the franchise through criticism, analysis, and discussion.\n\n#Highlander #DuncanMacLeod #TheCorruptedChronicle"
+        },
+        {
           "videoId": "vvB68iI2fFM",
           "title": "Highlander’s Greatest Contradiction Changes Everything",
           "publishedAt": "2026-10-29T22:00:38+00:00",
@@ -131,22 +147,6 @@ window.PROJECT_CONTENT = {
           "thumbnail": "https://i4.ytimg.com/vi/33mP-fW6b64/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=33mP-fW6b64",
           "description": "Kamir was right about returning the Kali to India. So why did Duncan MacLeod still take his head?\n\nA look at moral pluralism, cultural differences, and the difficult choices explored in Highlander.\n\n**Sources / footage referenced:**\n- Highlander: The Series, Season 4, Episode 9, “The Wrath of Kali.”\n\n**Rights notice:** Highlander, its characters, footage, music, trademarks, and related intellectual property belong to their respective copyright and trademark owners. The Corrupted Chronicle does not own the Highlander franchise and is not affiliated with or endorsed by its rights holders. Any excerpts appearing in this fan-made video are used in limited form for commentary, criticism, analysis, research, and discussion.\n\n#Highlander #TheWrathOfKali #TheCorruptedChronicle"
-        },
-        {
-          "videoId": "TTvRJwB-qQc",
-          "title": "Who Actually Made Highlander’s Rules?",
-          "publishedAt": "2026-10-08T22:00:15+00:00",
-          "thumbnail": "https://i1.ytimg.com/vi/TTvRJwB-qQc/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=TTvRJwB-qQc",
-          "description": "Highlander’s Immortals all seem to know the rules of the Game.\n\nDon’t fight on Holy Ground. Fight one-on-one. Keep Immortals secret. Eventually, there can be only one.\n\nBut who actually made those rules?\n\nSources referenced\nHighlander (1986)\nRamírez teaching Connor about Immortality, the Gathering, the Prize and Holy Ground.\n\nHighlander: The Series — “The Gathering”\nSlan Quince objecting to Duncan and Connor facing him two-against-one, demonstrating that the one-on-one convention is explicitly recognized by Immortals.\n\nHighlander: The Series — “Little Tin God”\nJoe Dawson recounting the Watcher legend about Immortals fighting on Holy Ground at Pompeii, used when examining whether the Holy Ground prohibition may have supernatural consequences.\n\nHighlander III: The Final Dimension\nConnor and Kane at the Buddhist shrine, used as evidence when examining possible supernatural enforcement of the Holy Ground rule.\n\nHighlander: Endgame\nJacob Kell and his followers violating the traditional one-on-one code while continuing to take heads and receive Quickenings, testing whether the code is actually enforced by the supernatural mechanics of the Game.\n\nHighlander and its characters, footage, music, trademarks and related materials belong to their respective rights holders. The Corrupted Chronicle is an independent fan analysis/commentary project and is not affiliated with or endorsed by the Highlander rights holders.\n#Highlander #Immortals #TheGame"
-        },
-        {
-          "videoId": "W4rIeMJEfOg",
-          "title": "What EXACTLY Gets Transferred in a Quickening?",
-          "publishedAt": "2026-10-02T01:00:28+00:00",
-          "thumbnail": "https://i4.ytimg.com/vi/W4rIeMJEfOg/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=W4rIeMJEfOg",
-          "description": "What actually passes from one Immortal to another during a Quickening?\n\nThis episode examines whether Highlander shows the transfer of more than raw power, including memories, knowledge, personality, skills, and unusual abilities. From Kane gaining Nakano’s illusions to the Dark Quickening and the Animated Series’ explicit knowledge transfers, the evidence is stranger than the usual explanation suggests.\n\nSources / footage referenced:\n• Highlander III: The Final Dimension (1994)\n• Highlander: The Series S1E5, “Free Fall”\n• Highlander: The Series S3E9, “Shadows”\n• Highlander: The Series S4E13, “Something Wicked”\n• Highlander: The Series S4E14, “Deliverance”\n• Highlander: The Series S5E1, “Prophecy”\n• Highlander: The Animated Series S1E13, “The Setup”\n\nRights notice: Highlander, its characters, footage, music, trademarks, and related intellectual property belong to their respective copyright and trademark owners. The Corrupted Chronicle does not own the Highlander franchise and is not affiliated with or endorsed by its rights holders. Any excerpts appearing in this fan-made video are used in limited form for commentary, criticism, analysis, research, and discussion.\n\n#Highlander #Quickening #TheCorruptedChronicle"
         }
       ]
     },
