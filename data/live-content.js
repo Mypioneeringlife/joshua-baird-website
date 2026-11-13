@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-11-13T07:54:26.987Z",
+  "updatedAt": "2026-11-13T16:18:53.240Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -32,8 +32,8 @@ window.LIVE_CONTENT = {
   },
   "substack": {
     "url": "https://substack.com/@mypioneeringlife",
-    "title": "Just a moment...",
-    "image": "",
-    "latestTitle": "Just a moment..."
+    "title": "Joshua Baird | Substack",
+    "image": "https://substackcdn.com/image/fetch/$s_!Hpjw!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fapi%2Fv1%2Fprofile%2Fassets%2F496019061%2Flight%3FaspectRatio%3Dlink%26version%3D1",
+    "latestTitle": "Joshua Baird | Substack"
   }
 };
