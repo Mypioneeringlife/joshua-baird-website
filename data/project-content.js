@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-11-12T18:53:36.465Z",
+  "updatedAt": "2026-11-13T00:19:10.943Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -101,6 +101,14 @@ window.PROJECT_CONTENT = {
       ],
       "videos": [
         {
+          "videoId": "rK5AZd2pMiM",
+          "title": "Connor MacLeod Has a Problem With Love",
+          "publishedAt": "2026-11-12T23:00:21+00:00",
+          "thumbnail": "https://i3.ytimg.com/vi/rK5AZd2pMiM/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rK5AZd2pMiM",
+          "description": "Connor MacLeod knows how to love. Heather proved that. So why do his relationships get so complicated after she's gone?\n\nAcross Highlander, Highlander II, and Highlander III, Connor finds himself in relationships shaped by secrecy, danger, grief, and some remarkably questionable decisions.\n\nLouise Marcus has her own mission before Connor enters her life. Alexandra Johnson looks exactly like a woman Connor loved centuries earlier. Sarah Barrington moves on without him. And Brenda Wyatt discovers that the man she's investigating has been hiding something almost impossible to believe.\n\nBut there's a difference between attraction, emotional intensity, and lasting love.\n\nWe're taking a closer look at what Highlander actually shows us about Connor's relationships, what the movies leave us to assume, and whether the man who stayed with Heather ever finds that kind of love again.\n\n**Which woman after Heather do you think Connor actually loved? Don't just give me the name. Give me the scene that convinced you.**\n\nSubscribe to The Corrupted Chronicle for Highlander lore, character analysis, and the questions hiding inside the Game.\n\n---\n\n**SOURCE MATERIAL AND CREDITS**\n\nHighlander (1986), Highlander II, and Highlander III are discussed for purposes of independent criticism and commentary. Highlander characters, footage, and associated trademarks belong to their respective rights holders.\n\n[Insert verified film, stock-footage, imagery, and music credits from the final production source register before publication.]\n\n#Highlander #ConnorMacLeod #HighlanderLore`"
+        },
+        {
           "videoId": "t6J_5Ks3ASY",
           "title": "Duncan MacLeod Did Something His Enemy Never Expected",
           "publishedAt": "2026-11-07T17:00:25+00:00",
@@ -139,14 +147,6 @@ window.PROJECT_CONTENT = {
           "thumbnail": "https://i3.ytimg.com/vi/2csr2gLHaio/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=2csr2gLHaio",
           "description": ""
-        },
-        {
-          "videoId": "HM8BZ9369fY",
-          "title": "Highlander: Duncan Knew About Richie All Along",
-          "publishedAt": "2026-10-22T22:00:14+00:00",
-          "thumbnail": "https://i1.ytimg.com/vi/HM8BZ9369fY/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=HM8BZ9369fY",
-          "description": "Are you already Immortal before your first death? From Duncan’s secret about Richie to Amanda’s decision to shoot Nick, Highlander leaves some difficult questions about the Buzz, the first death, and when immortality actually begins.\n\nSources: Highlander (1986); Highlander: Endgame (2000); Highlander: The Series, “Free Fall” (S1E5), “The Darkness” (S2E4), “Rite of Passage” (S3E5), and “Timeless” (S4E11); Highlander: The Raven, “Dead on Arrival” (S1E22)."
         }
       ]
     },

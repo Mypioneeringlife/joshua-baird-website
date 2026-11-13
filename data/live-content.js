@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-11-12T18:53:36.466Z",
+  "updatedAt": "2026-11-13T00:19:10.945Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -16,11 +16,11 @@ window.LIVE_CONTENT = {
       "channelId": "UCCpOshmq6EogShwWHEjqXoA",
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
-        "videoId": "t6J_5Ks3ASY",
-        "title": "Duncan MacLeod Did Something His Enemy Never Expected",
-        "publishedAt": "2026-11-07T17:00:25+00:00",
-        "url": "https://www.youtube.com/watch?v=t6J_5Ks3ASY",
-        "thumbnail": "https://i.ytimg.com/vi/t6J_5Ks3ASY/maxresdefault.jpg"
+        "videoId": "rK5AZd2pMiM",
+        "title": "Connor MacLeod Has a Problem With Love",
+        "publishedAt": "2026-11-12T23:00:21+00:00",
+        "url": "https://www.youtube.com/watch?v=rK5AZd2pMiM",
+        "thumbnail": "https://i.ytimg.com/vi/rK5AZd2pMiM/maxresdefault.jpg"
       }
     }
   },
