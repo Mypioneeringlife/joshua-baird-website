@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-11-15T01:52:58.089Z",
+  "updatedAt": "2026-11-15T09:21:18.774Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -17,7 +17,7 @@ window.LIVE_CONTENT = {
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
         "videoId": "rK5AZd2pMiM",
-        "title": "Connor MacLeod Has a Problem With Love",
+        "title": "Was Heather Connor MacLeod’s Only True Love?",
         "publishedAt": "2026-11-12T23:00:21+00:00",
         "url": "https://www.youtube.com/watch?v=rK5AZd2pMiM",
         "thumbnail": "https://i.ytimg.com/vi/rK5AZd2pMiM/maxresdefault.jpg"
