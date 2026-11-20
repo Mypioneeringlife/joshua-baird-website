@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-11-19T21:29:41.613Z",
+  "updatedAt": "2026-11-20T03:10:24.710Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -101,6 +101,14 @@ window.PROJECT_CONTENT = {
       ],
       "videos": [
         {
+          "videoId": "VlPbMiW4E28",
+          "title": "Did Highlander: Endgame Break Its Most Sacred Rule?",
+          "publishedAt": "2026-11-19T23:00:21+00:00",
+          "thumbnail": "https://i3.ytimg.com/vi/VlPbMiW4E28/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=VlPbMiW4E28",
+          "description": "Highlander's holy ground rule is one of the few rules even its most dangerous Immortals seem to respect. So why does Jacob Kell massacre the Immortals inside the Sanctuary in Highlander: Endgame without any apparent consequences?\n\nThe answer gets stranger when you compare the theatrical version with the producer's cut.\n\nIn this episode of The Corrupted Chronicle, we're examining what Highlander actually establishes about holy ground, from Connor's confrontation with the Kurgan and Darius's death to the legend of Pompeii, Kane's attack in Highlander III, and the Sanctuary massacre.\n\nThe question isn't whether Immortals believe the rule. They clearly do.\n\nThe question is what actually enforces it.\n\nAnd when one released version of Endgame calls the Sanctuary holy ground while another removes that designation, the distinction becomes a lot more important.\n\n**What do you think?** Is holy ground protected by a supernatural law with consequences we never fully see, or is it a taboo so deeply ingrained that Immortals treat it like a law?\n\nIf there's a scene that settles the question, I want to hear about it in the comments.\n\nSubscribe to The Corrupted Chronicle for more investigations into Highlander's lore, contradictions, characters, and unanswered questions.\n\n**Highlander sources discussed:**\n- Highlander (1986)\n- Highlander: The Series\n- Highlander III\n- Highlander: Endgame — theatrical version and producer's cut\n\nRights notice: Highlander, its characters, footage, music, trademarks, and related intellectual property belong to their respective copyright and trademark owners. The Corrupted Chronicle is an independent, fan-made commentary channel and is not affiliated with or endorsed by the franchise's rights holders. Excerpts appearing in this video are presented for criticism, commentary, analysis, research, and discussion.\n\n\n#Highlander #HighlanderEndgame #TheCorruptedChronicle"
+        },
+        {
           "videoId": "rK5AZd2pMiM",
           "title": "Was Heather Connor MacLeod’s Only True Love?",
           "publishedAt": "2026-11-12T23:00:21+00:00",
@@ -139,14 +147,6 @@ window.PROJECT_CONTENT = {
           "thumbnail": "https://i3.ytimg.com/vi/vvB68iI2fFM/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=vvB68iI2fFM",
           "description": "What happens when Highlander's own stories don't agree about the rules of the Game?\n\nAcross the Highlander franchise, Immortals live by rules, traditions, and expectations that don't always fit neatly together. But are these genuine contradictions, different perspectives, or evidence that the mythology changed as the franchise developed?\n\nIn this episode of The Corrupted Chronicle, we're examining the relationship between established canon, Immortal behavior, and the rules supposedly governing the Game.\n\nFrom Duncan MacLeod and Methos to Antonius Kalas, John Kirin, and the mysterious Messenger, the question isn't simply what the rules say. It's whether the stories consistently support them.\n\nWe're following the evidence, comparing the competing explanations, and asking what the franchise actually establishes.\n\n**Join the discussion:**\nWhich Highlander contradiction do you think deserves the closest examination?\n\n**Sources and franchise acknowledgment**\n\nHighlander and its associated characters, footage, music, and intellectual property belong to their respective rights holders. The Corrupted Chronicle is an independent fan commentary and analysis channel and is not affiliated with the franchise's rights holders.\n\nMaterial used for commentary, criticism, and analysis is presented in the context of those purposes.\n\n#Highlander #DuncanMacLeod #TheCorruptedChronicle"
-        },
-        {
-          "videoId": "2csr2gLHaio",
-          "title": "Why Highlander Fights Could Fail Without Centuries of Experience #highlander #movie #shorts",
-          "publishedAt": "2026-10-26T16:00:27+00:00",
-          "thumbnail": "https://i3.ytimg.com/vi/2csr2gLHaio/hqdefault.jpg",
-          "url": "https://www.youtube.com/watch?v=2csr2gLHaio",
-          "description": ""
         }
       ]
     },

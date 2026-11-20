@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-11-19T21:29:41.614Z",
+  "updatedAt": "2026-11-20T03:10:24.712Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -16,11 +16,11 @@ window.LIVE_CONTENT = {
       "channelId": "UCCpOshmq6EogShwWHEjqXoA",
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
-        "videoId": "rK5AZd2pMiM",
-        "title": "Was Heather Connor MacLeod’s Only True Love?",
-        "publishedAt": "2026-11-12T23:00:21+00:00",
-        "url": "https://www.youtube.com/watch?v=rK5AZd2pMiM",
-        "thumbnail": "https://i.ytimg.com/vi/rK5AZd2pMiM/maxresdefault.jpg"
+        "videoId": "VlPbMiW4E28",
+        "title": "Did Highlander: Endgame Break Its Most Sacred Rule?",
+        "publishedAt": "2026-11-19T23:00:21+00:00",
+        "url": "https://www.youtube.com/watch?v=VlPbMiW4E28",
+        "thumbnail": "https://i.ytimg.com/vi/VlPbMiW4E28/maxresdefault.jpg"
       }
     }
   },
@@ -32,8 +32,8 @@ window.LIVE_CONTENT = {
   },
   "substack": {
     "url": "https://substack.com/@mypioneeringlife",
-    "title": "Joshua Baird | Substack",
-    "image": "https://substackcdn.com/image/fetch/$s_!Hpjw!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fapi%2Fv1%2Fprofile%2Fassets%2F496019061%2Flight%3FaspectRatio%3Dlink%26version%3D1",
-    "latestTitle": "Joshua Baird | Substack"
+    "title": "Just a moment...",
+    "image": "",
+    "latestTitle": "Just a moment..."
   }
 };
