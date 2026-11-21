@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-11-21T17:28:42.292Z",
+  "updatedAt": "2026-11-21T23:12:43.728Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -25,10 +25,10 @@ window.LIVE_CONTENT = {
     }
   },
   "blog": {
-    "url": "https://mypioneeringlife1.wordpress.com/",
-    "title": "My Pioneering Life",
-    "image": "https://mypioneeringlife1.wordpress.com/wp-content/uploads/2025/11/cropped-transparent.png?w=200",
-    "latestTitle": "My Pioneering Life"
+    "url": "https://mypioneeringlife.com/",
+    "title": "429 Too Many Requests",
+    "image": "",
+    "latestTitle": "429 Too Many Requests"
   },
   "substack": {
     "url": "https://substack.com/@mypioneeringlife",
