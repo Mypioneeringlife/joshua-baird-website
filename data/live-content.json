@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T01:29:43.193Z",
+  "updatedAt": "2026-11-21T09:46:04.676Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -17,7 +17,7 @@
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
         "videoId": "VlPbMiW4E28",
-        "title": "Did Highlander: Endgame Break Its Most Sacred Rule?",
+        "title": "Highlander's Holy Ground Rule Has a Serious Problem",
         "publishedAt": "2026-11-19T23:00:21+00:00",
         "url": "https://www.youtube.com/watch?v=VlPbMiW4E28",
         "thumbnail": "https://i.ytimg.com/vi/VlPbMiW4E28/maxresdefault.jpg"
@@ -25,10 +25,10 @@
     }
   },
   "blog": {
-    "url": "https://mypioneeringlife1.wordpress.com/",
-    "title": "My Pioneering Life",
-    "image": "https://mypioneeringlife1.wordpress.com/wp-content/uploads/2025/11/cropped-transparent.png?w=200",
-    "latestTitle": "My Pioneering Life"
+    "url": "https://mypioneeringlife.com/",
+    "title": "429 Too Many Requests",
+    "image": "",
+    "latestTitle": "429 Too Many Requests"
   },
   "substack": {
     "url": "https://substack.com/@mypioneeringlife",

@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-11-21T01:29:43.192Z",
+  "updatedAt": "2026-11-21T09:46:04.675Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -102,7 +102,7 @@ window.PROJECT_CONTENT = {
       "videos": [
         {
           "videoId": "VlPbMiW4E28",
-          "title": "Did Highlander: Endgame Break Its Most Sacred Rule?",
+          "title": "Highlander's Holy Ground Rule Has a Serious Problem",
           "publishedAt": "2026-11-19T23:00:21+00:00",
           "thumbnail": "https://i3.ytimg.com/vi/VlPbMiW4E28/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=VlPbMiW4E28",
