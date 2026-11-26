@@ -1,5 +1,5 @@
 window.LIVE_CONTENT = {
-  "updatedAt": "2026-11-25T22:29:36.095Z",
+  "updatedAt": "2026-11-26T04:59:49.185Z",
   "youtube": {
     "mypioneeringlife": {
       "channelId": "UC7CvHpvS7zA_7A03rMhh_3w",
@@ -16,24 +16,24 @@ window.LIVE_CONTENT = {
       "channelId": "UCCpOshmq6EogShwWHEjqXoA",
       "channelUrl": "https://www.youtube.com/@TheCorruptedChronicle",
       "latest": {
-        "videoId": "VlPbMiW4E28",
-        "title": "Highlander's Holy Ground Rule Has a Serious Problem",
-        "publishedAt": "2026-11-19T23:00:21+00:00",
-        "url": "https://www.youtube.com/watch?v=VlPbMiW4E28",
-        "thumbnail": "https://i.ytimg.com/vi/VlPbMiW4E28/maxresdefault.jpg"
+        "videoId": "HutQP5T3KHo",
+        "title": "The Immortal Who Turned Mercy Into a Weapon | Highlander",
+        "publishedAt": "2026-11-25T23:00:00+00:00",
+        "url": "https://www.youtube.com/watch?v=HutQP5T3KHo",
+        "thumbnail": "https://i.ytimg.com/vi/HutQP5T3KHo/maxresdefault.jpg"
       }
     }
   },
   "blog": {
-    "url": "https://mypioneeringlife1.wordpress.com/",
-    "title": "My Pioneering Life",
-    "image": "https://mypioneeringlife1.wordpress.com/wp-content/uploads/2025/11/cropped-transparent.png?w=200",
-    "latestTitle": "My Pioneering Life"
+    "url": "https://mypioneeringlife.com/",
+    "title": "429 Too Many Requests",
+    "image": "",
+    "latestTitle": "429 Too Many Requests"
   },
   "substack": {
     "url": "https://substack.com/@mypioneeringlife",
-    "title": "Joshua Baird | Substack",
-    "image": "https://substackcdn.com/image/fetch/$s_!Hpjw!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fapi%2Fv1%2Fprofile%2Fassets%2F496019061%2Flight%3FaspectRatio%3Dlink%26version%3D1",
-    "latestTitle": "Joshua Baird | Substack"
+    "title": "Just a moment...",
+    "image": "",
+    "latestTitle": "Just a moment..."
   }
 };
