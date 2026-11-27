@@ -1,5 +1,5 @@
 window.PROJECT_CONTENT = {
-  "updatedAt": "2026-11-26T23:49:35.552Z",
+  "updatedAt": "2026-11-27T08:24:35.600Z",
   "projects": {
     "mypioneeringlife": {
       "name": "My Pioneering Life",
@@ -102,7 +102,7 @@ window.PROJECT_CONTENT = {
       "videos": [
         {
           "videoId": "HutQP5T3KHo",
-          "title": "The Immortal Who Turned Mercy Into a Weapon | Highlander",
+          "title": "What Happens When an Immortal Never Grows Up? | Highlander",
           "publishedAt": "2026-11-25T23:00:00+00:00",
           "thumbnail": "https://i1.ytimg.com/vi/HutQP5T3KHo/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=HutQP5T3KHo",
